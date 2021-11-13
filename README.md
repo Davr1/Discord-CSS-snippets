@@ -51,3 +51,9 @@ These snippets should work in most browsers and in the desktop app
 ### [Tall profile popout color banner](/snippets/tall_profile_banners.css?raw=true)
 
 ![](https://cdn.discordapp.com/attachments/755005803303403570/871658897981706350/unknown.png)
+
+---
+
+### [Fix broken voice chat rich presence mask](/snippets/rpc_mask.css?raw=true)
+
+![](https://cdn.discordapp.com/attachments/755005803303403570/865924295519502346/b.png)

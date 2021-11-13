@@ -1,8 +1,4 @@
-# Discord css snippets
-
----
-
-## Powercord-only snippets
+# Powercord-only snippets
 These snippets require [Powercord](https://powercord.dev) for specific element attributes
 
 ### [Messenger chat bubbles](/snippets/messenger_chat_bubbles.css?raw=true)
@@ -15,7 +11,7 @@ These snippets require [Powercord](https://powercord.dev) for specific element a
 
 ---
 
-## General snippets
+# General snippets
 These snippets should work in most browsers and in the desktop app
 
 ### [Channel view switch](/snippets/channel_view_switch.css?raw=true)

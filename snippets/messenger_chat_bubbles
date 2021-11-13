@@ -1,0 +1,76 @@
+/* Message shape */
+.cozy-3raOZG.wrapper-2a6GCs {
+    padding-top: 1px; 
+    padding-bottom: 1px;
+}
+.cozyMessage-3V1Y8y:not(.groupStart-23k01U)>.contents-2mQqc9>.markup-2BOw-j:not(:empty) {
+    border-radius: 6px 15px 15px 6px;
+}
+.contents-2mQqc9>.markup-2BOw-j:not(:empty){
+    display: inline-block;
+    max-width: min(650px, 100%);
+    margin: 0;
+    padding: 8px 12px 7px;
+    border-radius: 15px 15px 15px 6px;
+    position: relative;
+    overflow: visible;
+}
+/* Bubble color */
+.theme-light [data-is-author-self=false] .markup-2BOw-j:not(:empty) {
+    background-color: #E4E6EB;
+}
+.theme-dark [data-is-author-self=false] .markup-2BOw-j:not(:empty) {
+    background-color: #313131;
+}
+[data-is-author-self=true]>.contents-2mQqc9>.markup-2BOw-j:not(:empty) {
+    background: linear-gradient(#00c8d3 0%,#3654e8 100%);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+/* Text style */
+.container-3-pyIM *,.contents-2mQqc9>.markup-2BOw-j,
+.contents-2mQqc9>.markup-2BOw-j>* {
+    --text-normal: #fff;
+    --text-link: #fff;
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: 400;
+}
+.theme-light [data-is-author-self=false] .container-3-pyIM *,
+.theme-light [data-is-author-self=false] .markup-2BOw-j,
+.theme-light [data-is-author-self=false] .markup-2BOw-j>* {
+    --text-normal: #000;
+    --text-link: #000;
+}
+/* Last rounded corner */
+.groupStart-23k01U::before,
+.hasContent-1cNJDh::before,
+.messageListItem-1-jvGY+.scrollerSpacer-avRLaA::before {
+    content: '';
+    display: block;
+    width: 20px;
+    height: 20px;
+    background: transparent;
+    position: absolute;
+    border-bottom-left-radius: 20px;
+    border: 5px solid var(--background-primary);
+    border-right: 0;
+    border-top: 0;
+}
+.groupStart-23k01U::before {
+    transform: translate(-20%,-156%);
+}
+.hasContent-1cNJDh::before {
+    left: 51px;
+    transform: translateY(-132%);
+}
+.messageListItem-1-jvGY+.scrollerSpacer-avRLaA::before {
+    left: 67px;
+    transform: translateY(-84%);
+}
+.mentioned-xhSam7::before {
+    left: unset;
+    top: unset;
+    bottom: unset;
+}

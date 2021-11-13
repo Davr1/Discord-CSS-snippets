@@ -1,5 +1,7 @@
 # Discord css snippets
 
+---
+
 ## Powercord-only snippets
 These snippets require [Powercord](https://powercord.dev) for specific element attributes
 
@@ -10,6 +12,8 @@ These snippets require [Powercord](https://powercord.dev) for specific element a
 ---
 
 ### [Fully draggable fullscreen window](/snippets/fullscreen_window_drag.css?raw=true)
+
+---
 
 ## General snippets
 These snippets should work in most browsers and in the desktop app
@@ -51,5 +55,3 @@ These snippets should work in most browsers and in the desktop app
 ### [Tall profile popout color banner](/snippets/tall_profile_banners.css?raw=true)
 
 ![](https://cdn.discordapp.com/attachments/755005803303403570/871658897981706350/unknown.png)
-
----

@@ -1,3 +1,8 @@
+# Discord CSS snippets
+A collection of random snippets that I wrote
+1. [Powercord-only snippets](#powercord-only-snippets)
+2. [General snippets](#general-snippets)
+
 # Powercord-only snippets
 These snippets require [Powercord](https://powercord.dev) for specific element attributes
 

@@ -22,7 +22,7 @@ These snippets require [Powercord](https://powercord.dev) for specific element a
 # Plugin snippets
 These snippets require a plugin to work
 
-### [Channel view switch with three buttons](/snippets/channel_view_switch.css-3_buttons?raw=true) ([Channel DMs](https://github.com/Strencher/BetterDiscordStuff/tree/master/ChannelDms) - [BD](https://betterdiscord.app/))
+### [Channel view switch with three buttons](/snippets/channel_view_switch-3_buttons.css?raw=true) ([Channel DMs](https://github.com/Strencher/BetterDiscordStuff/tree/master/ChannelDms) - [BD](https://betterdiscord.app/))
 ![](https://cdn.discordapp.com/attachments/692065688524816475/913849732110123068/unknown.png)
 
 # General snippets

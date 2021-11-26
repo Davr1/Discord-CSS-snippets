@@ -1,7 +1,8 @@
 # Discord CSS snippets
 A collection of random snippets that I wrote
 1. [Powercord-only snippets](#powercord-only-snippets)
-2. [General snippets](#general-snippets)
+2. [Plugin snippets](#plugin-snippets)
+3. [General snippets](#general-snippets)
 
 ---
 
@@ -17,6 +18,12 @@ These snippets require [Powercord](https://powercord.dev) for specific element a
 ### [Fully draggable fullscreen window](/snippets/fullscreen_window_drag.css?raw=true)
 
 ---
+
+# Plugin snippets
+These snippets require a plugin to work
+
+### [Channel view switch with three buttons](/snippets/channel_view_switch.css-3_buttons?raw=true) ([Channel DMs](https://github.com/Strencher/BetterDiscordStuff/tree/master/ChannelDms) - [BD](https://betterdiscord.app/))
+![](https://cdn.discordapp.com/attachments/692065688524816475/913849732110123068/unknown.png)
 
 # General snippets
 These snippets should work in most browsers and in the desktop app

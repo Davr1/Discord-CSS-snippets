@@ -77,7 +77,7 @@ Original license: [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.
 
 ---
 
-### [2021 Snowsgiving home icon](/snippets/snowglobe_home_icon?raw=true)
+### [2021 Snowsgiving home icon](/snippets/snowglobe_home_icon.css?raw=true)
 
 ![](https://cdn.discordapp.com/attachments/692065688524816475/916418748783661056/unknown.png)
 

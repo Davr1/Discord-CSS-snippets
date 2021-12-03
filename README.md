@@ -77,6 +77,12 @@ Original license: [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.
 
 ---
 
+### [2021 Snowsgiving home icon](/snippets/snowglobe_home_icon?raw=true)
+
+![](https://cdn.discordapp.com/attachments/692065688524816475/916418748783661056/unknown.png)
+
+---
+
 ### [Fix broken voice chat rich presence mask](/snippets/rpc_mask.css?raw=true)
 
 ![](https://cdn.discordapp.com/attachments/755005803303403570/865924295519502346/b.png)

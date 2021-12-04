@@ -43,6 +43,8 @@ Original license: [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.
 
 ![](https://cdn.discordapp.com/attachments/692065688524816475/916382960792522812/unknown.png)
 
+![](https://cdn.discordapp.com/attachments/692065688524816475/916705085705306112/unknown.png)
+
 ---
 
 ### [Collapse threads](/snippets/collapse_threads.css?raw=true)

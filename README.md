@@ -39,7 +39,7 @@ These snippets should work in most browsers and in the desktop app
 ### [Mutant Remix emojis](/snippets/revolt_emojis.css?raw=true)
 Emoji pack made by nizune\
 Website: [https://mutant.revolt.chat/](https://mutant.revolt.chat/)\
-Original license: [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+License: [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ![](https://cdn.discordapp.com/attachments/692065688524816475/916382960792522812/unknown.png)
 

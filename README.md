@@ -88,3 +88,9 @@ License: [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ### [Fix broken voice chat rich presence mask](/snippets/rpc_mask.css?raw=true)
 
 ![](https://cdn.discordapp.com/attachments/755005803303403570/865924295519502346/b.png)
+
+---
+
+### [Fix public server icons in emoji previews](/snippets/emoji_public_server_icon.css?raw=true)
+
+![](https://cdn.discordapp.com/attachments/755005803303403570/875021871618351144/unknown.png)

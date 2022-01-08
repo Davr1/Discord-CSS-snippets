@@ -1,56 +1,56 @@
 /* Thread container and a few other tweaks */
-.container-3JKcAb {
+.container-1Bj0eq {
   counter-reset: threads;
   background-color: var(--background-tertiary);
   border-radius: 7px;
   padding: 3px 4px 3px 4px;
   margin: 3px 2px 3px 10px;
 }
-.spine--Wla_O {
+.spine-29OFwR {
   display: none;
 }
-.typeThread-3ESTm- .content-1x5b-n {
+.typeThread-2Aqh6X .content-1gYQeQ {
   margin-left: unset;
 }
 /* Custom text */
-.container-3JKcAb>.containerDefault--pIXnN {
+.container-1Bj0eq>.containerDefault-YUSmu3 {
   counter-increment: threads;
 }
-.container-3JKcAb>.containerDefault--pIXnN::after {
+.container-1Bj0eq>.containerDefault-YUSmu3::after {
   color: var(--channels-default);
   font-size: 14px;
   margin-left: 2px;
 }
-.container-3JKcAb>.containerDefault--pIXnN:last-of-type::after {
+.container-1Bj0eq>.containerDefault-YUSmu3:last-of-type::after {
   content: counter(threads) ' threads - hover to expand';
 }
-.container-3JKcAb>.containerDefault--pIXnN:only-of-type::after {
+.container-1Bj0eq>.containerDefault-YUSmu3:only-of-type::after {
   content: '1 thread - hover to expand';
 }
-.container-3JKcAb>.containerDefault--pIXnN.selected-3LIHYU:only-of-type::after {
+.container-1Bj0eq>.containerDefault-YUSmu3.selected-2TbFuo:only-of-type::after {
   content: none
 }
 /* Individual thread channels */
-.container-3JKcAb>.containerDefault--pIXnN:not(.selected-3LIHYU)>.typeThread-3ESTm- {
+.container-1Bj0eq>.containerDefault-YUSmu3:not(.selected-2TbFuo)>.typeThread-2Aqh6X {
   visibility: hidden;
   height: 0;
 }
-.container-3JKcAb>.containerDefault--pIXnN {
+.container-1Bj0eq>.containerDefault-YUSmu3 {
   height: 0;
 }
 /* Exceptions */
-.container-3JKcAb>.containerDefault--pIXnN.selected-3LIHYU, 
-.container-3JKcAb>.containerDefault--pIXnN:last-of-type {
+.container-1Bj0eq>.containerDefault-YUSmu3.selected-2TbFuo, 
+.container-1Bj0eq>.containerDefault-YUSmu3:last-of-type {
   height: unset;
 }
 /* Changes on hover */
-.container-3JKcAb:hover>.containerDefault--pIXnN::after {
+.container-1Bj0eq:hover>.containerDefault-YUSmu3::after {
   content: none;
 }
-.container-3JKcAb:hover>.containerDefault--pIXnN {
+.container-1Bj0eq:hover>.containerDefault-YUSmu3 {
   height: unset;
 }
-.container-3JKcAb:hover>.containerDefault--pIXnN>.typeThread-3ESTm- {
+.container-1Bj0eq:hover>.containerDefault-YUSmu3>.typeThread-2Aqh6X {
   visibility: unset;
   height: unset;
 }

@@ -1,8 +1,8 @@
 # Discord CSS snippets
 A collection of random snippets that I wrote
 1. [Powercord-only snippets](#powercord-only-snippets)
-2. [Plugin snippets](#plugin-snippets)
-3. [General snippets](#general-snippets)
+2. [General snippets](#general-snippets)
+3. [Other](#plugin-snippets)
 
 ---
 
@@ -19,22 +19,8 @@ These snippets require [Powercord](https://powercord.dev) for specific element a
 
 ---
 
-# Plugin snippets
-These snippets require a plugin to work
-
-### ~~[Channel view switch with three buttons](/snippets/channel_view_switch-3_buttons.css?raw=true) ([Channel DMs](https://github.com/Strencher/BetterDiscordStuff/tree/master/ChannelDms) - [BD](https://betterdiscord.app/))~~ [DEPRECATED](https://github.com/Discord-Datamining/Discord-Datamining/commit/b1817ee338fd46ca49bed78c543eebf054380761#commitcomment-64133576)
-![](https://cdn.discordapp.com/attachments/692065688524816475/913849732110123068/unknown.png)
-
 # General snippets
 These snippets should work in most browsers and in the desktop app
-
-### ~~[Channel view switch](/snippets/channel_view_switch.css?raw=true)~~ [DEPRECATED](https://github.com/Discord-Datamining/Discord-Datamining/commit/b1817ee338fd46ca49bed78c543eebf054380761#commitcomment-64133576)
-
-![](https://cdn.discordapp.com/attachments/692065688524816475/909111815584239646/unknown.png)
-
-![](https://cdn.discordapp.com/attachments/692065688524816475/909111815366144040/unknown.png)
-
----
 
 ### [Mutant Remix emojis](/snippets/revolt_emojis.css?raw=true)
 Emoji pack made by nizune\
@@ -96,3 +82,18 @@ Script used for generating the css: [https://gist.github.com/Davr1/42e64ec0b2ae4
 ### [Fix public server icons in emoji previews](/snippets/emoji_public_server_icon.css?raw=true)
 
 ![](https://cdn.discordapp.com/attachments/755005803303403570/875021871618351144/unknown.png)
+
+---
+
+# Other
+
+### ~~[Channel view switch](/snippets/channel_view_switch.css?raw=true)~~ [DEPRECATED](https://github.com/Discord-Datamining/Discord-Datamining/commit/b1817ee338fd46ca49bed78c543eebf054380761#commitcomment-64133576)
+
+![](https://cdn.discordapp.com/attachments/692065688524816475/909111815584239646/unknown.png)
+
+![](https://cdn.discordapp.com/attachments/692065688524816475/909111815366144040/unknown.png)
+
+---
+
+### ~~[Channel view switch with three buttons](/snippets/channel_view_switch-3_buttons.css?raw=true) ([Channel DMs](https://github.com/Strencher/BetterDiscordStuff/tree/master/ChannelDms) - [BD](https://betterdiscord.app/))~~ [DEPRECATED](https://github.com/Discord-Datamining/Discord-Datamining/commit/b1817ee338fd46ca49bed78c543eebf054380761#commitcomment-64133576)
+![](https://cdn.discordapp.com/attachments/692065688524816475/913849732110123068/unknown.png)

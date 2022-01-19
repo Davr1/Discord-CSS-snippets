@@ -22,13 +22,13 @@ These snippets require [Powercord](https://powercord.dev) for specific element a
 # Plugin snippets
 These snippets require a plugin to work
 
-### [Channel view switch with three buttons](/snippets/channel_view_switch-3_buttons.css?raw=true) ([Channel DMs](https://github.com/Strencher/BetterDiscordStuff/tree/master/ChannelDms) - [BD](https://betterdiscord.app/))
+### ~~[Channel view switch with three buttons](/snippets/channel_view_switch-3_buttons.css?raw=true) ([Channel DMs](https://github.com/Strencher/BetterDiscordStuff/tree/master/ChannelDms) - [BD](https://betterdiscord.app/))~~ [DEPRECATED](https://github.com/Discord-Datamining/Discord-Datamining/commit/b1817ee338fd46ca49bed78c543eebf054380761#commitcomment-64133576)
 ![](https://cdn.discordapp.com/attachments/692065688524816475/913849732110123068/unknown.png)
 
 # General snippets
 These snippets should work in most browsers and in the desktop app
 
-### [Channel view switch](/snippets/channel_view_switch.css?raw=true)
+### ~~[Channel view switch](/snippets/channel_view_switch.css?raw=true)~~ [DEPRECATED](https://github.com/Discord-Datamining/Discord-Datamining/commit/b1817ee338fd46ca49bed78c543eebf054380761#commitcomment-64133576)
 
 ![](https://cdn.discordapp.com/attachments/692065688524816475/909111815584239646/unknown.png)
 

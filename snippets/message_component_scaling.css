@@ -15,3 +15,7 @@
 .wrapper-3-JZ_Z {
     width: clamp(248px, 100%, 432px);
 }
+.container-2sjPya {
+    display: flex;
+    flex-direction: column;
+}

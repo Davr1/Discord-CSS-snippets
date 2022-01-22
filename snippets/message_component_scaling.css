@@ -1,7 +1,7 @@
-:is(.messageAttachment-CZp8Iv>a, .embedWrapper-1MtIDg>a, .embedWrapper-1MtIDg>div>a) {
+.messageAttachment-CZp8Iv>a, .embedWrapper-1MtIDg>a, .embedWrapper-1MtIDg>div>a {
     height: auto !important;
 }
-:is(.messageAttachment-CZp8Iv>a>img, .embedWrapper-1MtIDg>div>a>img, .embedWrapper-1MtIDg>a>img) {
+.messageAttachment-CZp8Iv>a>img, .embedWrapper-1MtIDg>div>a>img, .embedWrapper-1MtIDg>a>img {
     max-width: 100% !important;
     height: auto !important;
     position: unset;

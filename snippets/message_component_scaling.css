@@ -1,0 +1,17 @@
+:is(.messageAttachment-CZp8Iv>a, .embedWrapper-1MtIDg>a, .embedWrapper-1MtIDg>div>a) {
+    height: auto !important;
+}
+:is(.messageAttachment-CZp8Iv>a>img, .embedWrapper-1MtIDg>div>a>img, .embedWrapper-1MtIDg>a>img) {
+    max-width: 100% !important;
+    height: auto !important;
+    position: unset;
+}
+.embedWrapper-1MtIDg {
+    width: auto !important;
+}
+.wrapper-1HIH0j {
+    width: clamp(172px, 100%, 432px);
+}
+.wrapper-3-JZ_Z {
+    width: clamp(248px, 100%, 432px);
+}

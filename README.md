@@ -85,6 +85,10 @@ Script used for generating the css: [https://gist.github.com/Davr1/42e64ec0b2ae4
 
 ---
 
+### [Fix message component scaling](/snippets/message_component_scaling.css?raw=true)
+
+![](https://cdn.discordapp.com/attachments/692065688524816475/934430983934050374/unknown.png)
+
 # Other
 
 ### ~~[Channel view switch](/snippets/channel_view_switch.css?raw=true)~~ [DEPRECATED](https://github.com/Discord-Datamining/Discord-Datamining/commit/b1817ee338fd46ca49bed78c543eebf054380761#commitcomment-64133576)

@@ -87,6 +87,7 @@ Script used for generating the css: [https://gist.github.com/Davr1/42e64ec0b2ae4
 
 ### [Fix message component scaling](/snippets/message_component_scaling.css?raw=true)
 
+![](https://cdn.discordapp.com/attachments/692065688524816475/934433437408968744/unknown.png)
 ![](https://cdn.discordapp.com/attachments/692065688524816475/934430983934050374/unknown.png)
 
 # Other

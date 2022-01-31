@@ -73,6 +73,10 @@ Script used for generating the css: [https://gist.github.com/Davr1/42e64ec0b2ae4
 
 ---
 
+### [Upper right status indicators](/snippets/upper_right_status_indicators.css?raw=true)
+
+![](https://cdn.discordapp.com/attachments/692065688524816475/937720655770710016/unknown.png)
+
 ### [Fix broken voice chat rich presence mask](/snippets/rpc_mask.css?raw=true)
 
 ![](https://cdn.discordapp.com/attachments/755005803303403570/865924295519502346/b.png)

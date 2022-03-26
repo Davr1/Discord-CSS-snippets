@@ -2,7 +2,7 @@
 A collection of random snippets that I wrote
 1. [Powercord-only snippets](#powercord-only-snippets) (2)
 2. [General snippets](#general-snippets) (11)
-3. [Other](#other) (2)
+3. [Other](#other) (3)
 
 ---
 
@@ -96,6 +96,13 @@ Script used for generating the css: [https://gist.github.com/Davr1/42e64ec0b2ae4
 </p>
 
 # Other
+
+### [Cubic discord](/snippets/cubic_discord.css?raw=true)
+Turns discord into a spinning cube. firefox only.
+
+![](https://cdn.discordapp.com/attachments/692065688524816475/957323371580882984/firefox_-_2022_26_03_-_16_38_23_-_1920x1080.png)
+
+---
 
 ### ~~[Channel view switch](/snippets/channel_view_switch.css?raw=true)~~ [DEPRECATED](https://github.com/Discord-Datamining/Discord-Datamining/commit/b1817ee338fd46ca49bed78c543eebf054380761#commitcomment-64133576)
 

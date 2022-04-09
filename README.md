@@ -98,7 +98,7 @@ Script used for generating the css: [https://gist.github.com/Davr1/42e64ec0b2ae4
 ### [Revert italics](/snippets/revert_italics.css?raw=true)
 Brings back the old slanted text design
 
-<img src="https://cdn.discordapp.com/attachments/692065688524816475/962275783081095218/revert_italics.png" width="50%">
+<img src="https://cdn.discordapp.com/attachments/873972327849807932/962276815756472340/revert_italics.png" width="50%">
 
 # Other
 

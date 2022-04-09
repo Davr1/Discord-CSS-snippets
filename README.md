@@ -1,7 +1,7 @@
 # Discord CSS snippets
 A collection of random snippets that I wrote
 1. [Powercord-only snippets](#powercord-only-snippets) (2)
-2. [General snippets](#general-snippets) (11)
+2. [General snippets](#general-snippets) (12)
 3. [Other](#other) (3)
 
 ---
@@ -94,6 +94,11 @@ Script used for generating the css: [https://gist.github.com/Davr1/42e64ec0b2ae4
   <img src="https://cdn.discordapp.com/attachments/692065688524816475/934433437408968744/unknown.png" width="49%">
   <img src="https://cdn.discordapp.com/attachments/692065688524816475/934430983934050374/unknown.png" width="49%">
 </p>
+
+### [Revert italics](/snippets/revert_italics.css?raw=true)
+Brings back the old slanted text design
+
+<img src="https://cdn.discordapp.com/attachments/692065688524816475/962270269219680326/revert_italics.png" width="50%">
 
 # Other
 

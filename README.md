@@ -95,10 +95,14 @@ Script used for generating the css: [https://gist.github.com/Davr1/42e64ec0b2ae4
   <img src="https://cdn.discordapp.com/attachments/692065688524816475/934430983934050374/unknown.png" width="49%">
 </p>
 
+---
+
 ### [Revert italics](/snippets/revert_italics.css?raw=true)
 Brings back the old slanted text design
 
 <img src="https://cdn.discordapp.com/attachments/873972327849807932/962276815756472340/revert_italics.png" width="50%">
+
+---
 
 # Other
 
@@ -106,6 +110,13 @@ Brings back the old slanted text design
 Turns discord into a spinning cube. firefox only.
 
 ![](https://cdn.discordapp.com/attachments/692065688524816475/957323371580882984/firefox_-_2022_26_03_-_16_38_23_-_1920x1080.png)
+
+---
+
+### [3D discord variant](/snippets/cubic_discord_var.css?raw=true)
+Same as above, but this one is actually usable.
+
+![](https://cdn.discordapp.com/attachments/692065688524816475/962618240075456552/unknown.png)
 
 ---
 

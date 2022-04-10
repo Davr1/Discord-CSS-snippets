@@ -9,7 +9,7 @@ body {
     margin: auto;
     transform-style: preserve-3d;
     animation: how 20s linear infinite;
-    background: transparent
+    background: transparent;
 }
 @keyframes how {
     from {

@@ -19,7 +19,6 @@ body {
     margin: auto;
     transform-style: preserve-3d;
     background: transparent;
-    resize: both;
 }
 #app-mount::after {
     content: '';

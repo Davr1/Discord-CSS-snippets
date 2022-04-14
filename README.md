@@ -2,7 +2,7 @@
 A collection of random snippets that I wrote
 1. [Powercord-only snippets](#powercord-only-snippets) (2)
 2. [General snippets](#general-snippets) (12)
-3. [Other](#other) (3)
+3. [Other](#other) (4)
 
 ---
 

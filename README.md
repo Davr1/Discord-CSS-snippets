@@ -1,7 +1,7 @@
 # Discord CSS snippets
 A collection of random snippets that I wrote
 1. [Powercord-only snippets](#powercord-only-snippets) (2)
-2. [General snippets](#general-snippets) (12)
+2. [General snippets](#general-snippets) (13)
 3. [Other](#other) (4)
 
 ---
@@ -76,6 +76,15 @@ Script used for generating the css: [https://gist.github.com/Davr1/42e64ec0b2ae4
 ### [Upper right status indicators](/snippets/upper_right_status_indicators.css?raw=true)
 
 ![](https://cdn.discordapp.com/attachments/692065688524816475/937720655770710016/unknown.png)
+
+---
+
+### [Mentions icons](/snippets/mention_icons.css?raw=true)
+Adds a custom icon to user and role mentions, similar to channels
+
+![](https://cdn.discordapp.com/attachments/873972327849807932/965151814393671680/unknown.png)
+
+---
 
 ### [Fix broken voice chat rich presence mask](/snippets/rpc_mask.css?raw=true)
 

@@ -5,11 +5,11 @@
 }
 .mention:not(.iconMention-3WxjBe) {
     font-family: Blank, var(--font-primary);
-    padding: 0 2px 0 20px;
+    padding: 0 2px 0 1.2rem;
 }
 @supports (-moz-appearance: none) {
     .mention:not(.iconMention-3WxjBe) {
-        padding: 1.5px 2px 1.5px 20px;
+        padding: 1.5px 2px 1.5px 1.2rem;
     }
 }
 .mention:not(.iconMention-3WxjBe)::before {

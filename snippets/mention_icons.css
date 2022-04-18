@@ -6,6 +6,7 @@
 .mention:not(.iconMention-3WxjBe) {
     font-family: Blank, var(--font-primary);
     padding-left: 1.2rem !important;
+    white-space: nowrap;
 }
 @supports (-moz-appearance: none) {
     .mention:not(.iconMention-3WxjBe) {

@@ -36,7 +36,7 @@ Script used for generating the css: [https://gist.github.com/Davr1/42e64ec0b2ae4
 ---
 
 ### [Collapse server folders](/snippets/collapse_server_folders.css)
-Automatically collapses server folders until you hover over them\
+Automatically collapses server folders until you hover over them
 
 ![](https://cdn.discordapp.com/attachments/692065688524816475/972155005824036865/folders.gif)
 

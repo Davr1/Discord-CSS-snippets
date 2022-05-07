@@ -29,8 +29,8 @@
 }
 .wrapper-38slSD:not(:hover)>ul :is(.wrapper-28eC3z, .svg-2zuE5p, .listItem-3SmSlK) {
 	position: static;
-	width: 16px;
-	height: 16px;
+	width: 16px !important;
+	height: 16px !important;
 	margin: 0;
 }
 .wrapper-38slSD:not(:hover)>ul>.listItem-3SmSlK .pill-2RsI5Q {

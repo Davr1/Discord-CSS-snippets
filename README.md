@@ -1,7 +1,7 @@
 # Discord CSS snippets
 A collection of random snippets that I wrote
 1. [Powercord-only snippets](#powercord-only-snippets) (2)
-2. [General snippets](#general-snippets) (13)
+2. [General snippets](#general-snippets) (14)
 3. [Other](#other) (4)
 
 ---

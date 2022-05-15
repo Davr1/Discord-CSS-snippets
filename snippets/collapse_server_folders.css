@@ -46,4 +46,5 @@
 	color: transparent;
 	background: radial-gradient(white 30%, transparent 30%);
 	outline: 4px solid var(--background-tertiary);
+	visibility: visible;
 }

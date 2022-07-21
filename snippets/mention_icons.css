@@ -3,17 +3,17 @@
     src: url("https://raw.githack.com/adobe-fonts/adobe-blank/master/AdobeBlank.ttf.woff");
     unicode-range: U+40;
 }
-.mention:not(.iconMention-3WxjBe) {
+.mention:not(.iconMention-3WxjBe, .commandMention) {
     font-family: Blank, var(--font-primary);
     padding-left: 1.2rem !important;
     white-space: nowrap;
 }
 @supports (-moz-appearance: none) {
-    .mention:not(.iconMention-3WxjBe) {
+    .mention:not(.iconMention-3WxjBe, .commandMention) {
         padding: 1.5px 2px 1.5px 1.2rem;
     }
 }
-.mention:not(.iconMention-3WxjBe)::before {
+.mention:not(.iconMention-3WxjBe, .commandMention)::before {
     content: '';
     width: 16px;
     height: 100%;

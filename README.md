@@ -24,7 +24,7 @@ Last update: 8 Jan 2022
 # General snippets
 These snippets should work in most browsers and in the desktop app
 
-### [Twitter-like forums](/snippets/twitter-like_forums?raw=true)
+### [Twitter-like forums](/snippets/twitter-like_forums.css?raw=true)
 ![](https://cdn.discordapp.com/attachments/1000955967627874424/1006517550932316231/unknown.png)\
 Last update: 9 August 2022
 

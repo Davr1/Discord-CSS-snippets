@@ -55,7 +55,7 @@ Last update: 15 May 2022
 ![](https://cdn.discordapp.com/attachments/692065688524816475/909112685344481373/unknown.png)
 
 ![](https://cdn.discordapp.com/attachments/692065688524816475/909112685516451870/unknown.png)\
-Last update: 8 Jan 2022
+Last update: 12 Aug 2022
 
 ---
 
@@ -63,21 +63,6 @@ Last update: 8 Jan 2022
 
 ![](https://cdn.discordapp.com/attachments/755005803303403570/864812058574323712/unknown.png)\
 Last update: 8 Jan 2022
-
----
-
-### [Colored profile popout](/snippets/colored_profile_popout.css?raw=true)
-Better snippet can be found here: https://github.com/tf2iMicro/custom-css/blob/main/tweaks/UserPopout-Border.css
-
-![](https://cdn.discordapp.com/attachments/755005803303403570/871716893852061706/unknown.png)\
-Last update: 8 Apr 2022
-
----
-
-### [Colored profile modal](/snippets/colored_profile_modal.css?raw=true)
-
-![](https://cdn.discordapp.com/attachments/755005803303403570/872058781519982682/unknown.png)\
-Last update: 8 Apr 2022
 
 ---
 
@@ -136,7 +121,7 @@ Last update: 22 Jan 2022
 ### [Revert italics](/snippets/revert_italics.css?raw=true)
 Brings back the old slanted text design
 
-<img src="https://cdn.discordapp.com/attachments/873972327849807932/962276815756472340/revert_italics.png" width="50%">
+<img src="https://cdn.discordapp.com/attachments/873972327849807932/962276815756472340/revert_italics.png" width="50%">\
 Last update: 9 Apr 2022
 
 ---
@@ -172,3 +157,19 @@ Last update: 8 Jan 2022
 
 ![](https://cdn.discordapp.com/attachments/692065688524816475/913849732110123068/unknown.png)\
 Last update: 8 Jan 2022
+
+---
+
+### ~~[Colored profile popout](/snippets/colored_profile_popout.css?raw=true)~~
+Better snippet can be found here: https://github.com/tf2iMicro/custom-css/blob/main/tweaks/UserPopout-Border.css
+
+![](https://cdn.discordapp.com/attachments/755005803303403570/871716893852061706/unknown.png)\
+Last update: 8 Apr 2022
+
+---
+
+### ~~[Colored profile modal](/snippets/colored_profile_modal.css?raw=true)~~
+I just don't feel like updating it lol
+
+![](https://cdn.discordapp.com/attachments/755005803303403570/872058781519982682/unknown.png)\
+Last update: 8 Apr 2022
